@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.caption {
+  font-size: 2em;
+}
+.prv {
+  float: left;
+  font-size: 1em;
+}
+.next {
+  float: right;
+  font-size: 1em;
+}
