@@ -17,5 +17,85 @@ export const Cars = [
       "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHcAAABHCAMAAAAKnSgVAAAAFVBMVEUAAAD/zgDdAABwAADkAAD0qQD/0QCPnNFCAAAAPUlEQVRoge3NAQ3AIAADsB04/iUjY4G0BpoAAMCFZkdWR0aH1+v1er1er/eR9+/I7sjX4fV6vV6v1+t94z0ijScNBM8InAAAAABJRU5ErkJggg==",
     carImg:
       "https://imgd.aeplcdn.com/664x374/n/cw/ec/22801/q2-exterior-right-front-three-quarter-70077.jpeg?q=75"
+  },
+  {
+    name: "Tesla",
+    logo: "https://igguru.net/wp-content/uploads/2020/09/Tesla.jpg",
+    country: "America",
+    flag:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/800px-Flag_of_the_United_States.svg.png?20150326181342",
+    carImg:
+      "https://tesla-cdn.thron.com/delivery/public/image/tesla/c82315a6-ac99-464a-a753-c26bc0fb647d/bvlatuR/std/1200x628/lhd-model-3-social"
+  },
+
+  {
+    name: "Toyota",
+    logo:
+      "https://cdn.activestate.com/wp-content/uploads/2021/05/Toyota-Colored-Logo-300px.png",
+    country: "Japan",
+    flag:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Japan_%281870%E2%80%931999%29.svg/330px-Flag_of_Japan_%281870%E2%80%931999%29.svg.png",
+    carImg:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUoDb1ax2QCMV4b5I9Wz0XKlyn-ztNTfzqCg&usqp=CAU.jpg"
+  },
+  {
+    name: "Bharat Benz",
+    logo: "https://upload.wikimedia.org/wikipedia/en/0/0f/BharatBenz_logo.jpg",
+    country: "India",
+    flag:
+      "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/383px-Flag_of_India.svg.png",
+    carImg:
+      "https://www.trucksbuses.com/blogImages/uploads/2019/11/Bharatbenz-3723r.jpg"
+  },
+
+  {
+    name: "Koenigsegg",
+    logo:
+      "https://w7.pngwing.com/pngs/1022/479/png-transparent-koenigsegg-agera-car-koenigsegg-ccx-koenigsegg-one-1-koenigsegg-logo-sticker-shield-thumbnail.png",
+    country: "Sweden",
+    flag:
+      "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/383px-Flag_of_Sweden.svg.png",
+    carImg:
+      "https://hips.hearstapps.com/hmg-prod/images/koenigsegg-regera-mmp-1-1591115837.jpg?crop=0.801xw:0.601xh;0.0929xw,0.200xh&resize=1200.jpg"
+  },
+
+  {
+    name: "Lada",
+    logo:
+      "https://upload.wikimedia.org/wikipedia/en/1/12/Lada_company_logo.png",
+    country: "Russia",
+    flag:
+      "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/375px-Flag_of_Russia.svg.png",
+    carImg: "https://car-logos.net/wp-content/uploads/2019/02/lada.jpg"
+  },
+
+  {
+    name: "Tata",
+    logo:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ7Jfw95JvI6AuXSAs8Fn-1r7SzJski0EyYA&usqp=CAU.jpg",
+    country: "India",
+    flag:
+      "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/383px-Flag_of_India.svg.png",
+    carImg:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tata_Nano_im_Verkehrszentrum_des_Deutschen_Museums.JPG/300px-Tata_Nano_im_Verkehrszentrum_des_Deutschen_Museums.JPG"
+  },
+
+  {
+    name: "Lamborgini",
+    logo:
+      "https://cdn.imgbin.com/13/12/7/imgbin-lamborghini-logo-car-brand-lamborghini-6X4ZijZSNCRgP1RFyxqR9Vf6Z.jpg",
+    country: "Italy",
+    flag:
+      "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/383px-Flag_of_Italy.svg.png",
+    carImg:
+      "https://gumlet.assettype.com/freepressjournal/2020-01/83dfd536-86d0-4325-bd63-ff4d478ca7a3/Huracan.jpg?format=webp&w=400&dpr=2.6.jpg"
+  },
+
+  {
+    name: "",
+    logo: "",
+    country: "",
+    flag: "",
+    carImg: ""
   }
 ];
